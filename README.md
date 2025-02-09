@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://www.zippyops.com/userfiles/cache/thumbnails/1920/tn-osticket-1517973894.jpg" alt="osTicket logo"
-  />
+  height="200"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
