@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Reload IIS
 - Enable: php_imap.dll, Enable: php_intl.dll, Enable: php_opcache.dll
 - Rename: ost-config.php
-- ssign Permissions: ost-config.php
+- assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 - Continue Setting up osTicket in the browser
