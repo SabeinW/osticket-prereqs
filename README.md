@@ -24,11 +24,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - WindowsServer</b> (datacenter-azure-edition)
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create an Azure Virtual Machine Windows 10
+- Log into the VM with Remote Desktop
+- Install / Enable IIS in Windows WITH CGI
+- install PHP Manager for IIS 
+- Create the directory C:\PHP
+- unzip PHP 7.3.8
+- install VC_redist.x86.exe
+- install MySQL 5.5.62
+- Open IIS as an Admin and register PHP from within IIS
+- Reload IIS
+- Install osTicket v1.15.8
+- Reload IIS
+- Enable: php_imap.dll, Enable: php_intl.dll, Enable: php_opcache.dll
+- Rename: ost-config.php
+- ssign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+- Continue Setting up osTicket in the browser
+- install HeidiSQL
+- Create a database
+- Continue Setting up osTicket in the browser and then install
+  
+
+
+
+
+
 
 <h2>Installation Steps</h2>
 
