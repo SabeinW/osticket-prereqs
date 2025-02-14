@@ -70,7 +70,7 @@ Once we deploy our VM we log into it using Windows remote desktop connection. Wh
 <img src="https://i.imgur.com/86t3Fpd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From osticket.com we can gather the prerequisites needed to use osTicket (such as PHP 8.2/8.1 for Windows Server, etc).
+When you visit osTicket.com, the official website for osTicket, you can find the prerequisites required for the installation and proper operation of the osTicket system. These prerequisites include server specifications, software versions, and settings that need to be in place before installing osTicket. By meeting all these prerequisites, you will ensure that osTicket runs effectively and securely, giving you a reliable ticketing system for your help desk operations.
 </p>
 <br />
 
