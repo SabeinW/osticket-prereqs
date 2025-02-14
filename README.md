@@ -200,7 +200,7 @@ Once configured, osTicket will be able to store and retrieve ticket data, config
 <img src="https://i.imgur.com/zTGuaHy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The installation in the osTicket browser will make use of this.
+So, the osTicket database will play a crucial role in storing and managing all the data that makes the ticketing system work effectively. Without it, osTicket wouldn't be able to store, retrieve, or update tickets and other vital data.
 </p>
 <br />
 
