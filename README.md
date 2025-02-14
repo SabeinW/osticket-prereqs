@@ -91,7 +91,7 @@ Before we can use osTicket we must install / enable IIS (Internet Information Se
 <img src="https://i.imgur.com/zAK8p0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+PHP manager for IIS (a must-have if you're running PHP apps on a Windows IIS server because it simplifies PHP version control, configuration, and troubleshooting
 </p>
 <br />
 
@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/mq7nZo2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a PHP folder on the windows C drive and from the php-7.3-nts folder, extract to the PHP folder on the C drive (Extracting PHP to C:\php is the best practice because it prevents permission issues, simplifies configuration, and avoids path-related problems in IIS.).
 </p>
 <br />
 
