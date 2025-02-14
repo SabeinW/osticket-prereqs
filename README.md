@@ -192,7 +192,7 @@ HeidiSQL is a powerful tool for managing and configuring your databases, making 
 <img src="https://i.imgur.com/qgGo8eo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make a connection to the database and set up a database for osTicket to use.
+Once configured, osTicket will be able to store and retrieve ticket data, configurations, and user information in the newly created database.
 </p>
 <br />
 
