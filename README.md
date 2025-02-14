@@ -150,7 +150,7 @@ Restart IIS (In IIS Manager, click Restart on the right-side panel)
 <br />
 
 <p>
-<img src="https://i.imgur.com/BZRp5wl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7pYw6fd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Right-click the ost.config.php file.Select "Rename", enter the new name, such as newname.config.php, and press Enter. Make sure the new name is consistent with the file's role in your project, so the system can still locate and process the configuration file correctly.
