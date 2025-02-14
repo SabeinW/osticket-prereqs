@@ -143,7 +143,13 @@ Extract osTicket-v1, then rename the upload folder to osTicket. Extract it to a 
 <img src="https://i.imgur.com/UzWnGNA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In IIS Manager, select your server from the left panel.
+Double-click PHP Manager in the Features View. Enable the Required Extensions. Click "Enable or disable an extension" under PHP settings. Find and select the following extensions:
+php_imap.dll
+php_intl.dll
+php_opcache.dll
+Click Enable.
+Restart IIS (In IIS Manager, click Restart on the right-side panel)
 </p>
 <br />
 
