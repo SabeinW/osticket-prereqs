@@ -54,7 +54,7 @@ New Permissions -> Everyone -> All
 <img src="https://i.imgur.com/V75ke5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created and deployed the windows 10 virtual machine in azure, inside the "osTicket" resource group for unified deployment, organization as well as easier management. 
+Created and deployed the Windows 10 virtual machine in Azure, inside the "osTicket" resource group for unified deployment, organization as well as easier management. 
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Created and deployed the windows 10 virtual machine in azure, inside the "osTick
 <img src="https://i.imgur.com/nnRy2hK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once we deploy our vm we log into it using windows remote desktop connection. Which is RDP (Remote Desktop Protocol), a Microsoft protocol that allows you to remotely access another computer as if you were sitting right Infront of it.
+Once we deploy our VM we log into it using Windows remote desktop connection. Which is RDP (Remote Desktop Protocol), a Microsoft protocol that allows you to remotely access another computer as if you were sitting right in front of it.
 </p>
 <br />
 
@@ -70,7 +70,7 @@ Once we deploy our vm we log into it using windows remote desktop connection. Wh
 <img src="https://i.imgur.com/86t3Fpd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From osticket.com we are able to gather the prerequisites needed in order to actually use osTicket (such as PHP 8.2/8.1 for Windows Server, etc) .
+From osticket.com we can gather the prerequisites needed to use osTicket (such as PHP 8.2/8.1 for Windows Server, etc).
 </p>
 <br />
 
@@ -79,7 +79,7 @@ From osticket.com we are able to gather the prerequisites needed in order to act
   <img src="https://i.imgur.com/XMbuZu3.png"/>
 </p>
 <p>
-Before we can use osTicket we must install / enable IIS (Internet Information Services) along with CGI ( a dependency that osTicket needs).
+Before we can use osTicket we must install/enable IIS (Internet Information Services) along with CGI ( a dependency that osTicket needs).
 </p>
 <br />
 
@@ -176,7 +176,7 @@ By configuring the permissions correctly, osTicket can manage backend operations
 <img src="https://i.imgur.com/qHchNAF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Continue setup in osTickets website.
+Continue setup on osTickets website.
 </p>
 <br />
 
@@ -184,7 +184,7 @@ Continue setup in osTickets website.
 <img src="https://i.imgur.com/32tS01O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-HeidiSQL is an application that allows us to make a connection to our database and configure it etc.
+HeidiSQL is an application that allows us to connect to our database and configure it etc.
 </p>
 <br />
 
@@ -192,7 +192,7 @@ HeidiSQL is an application that allows us to make a connection to our database a
 <img src="https://i.imgur.com/qgGo8eo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make a connection to the database and setup a database for osTicket to use.
+Make a connection to the database and set up a database for osTicket to use.
 </p>
 <br />
 
@@ -200,7 +200,7 @@ Make a connection to the database and setup a database for osTicket to use.
 <img src="https://i.imgur.com/zTGuaHy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The installation in the browser of osTicket will make use of this.
+The installation in the osTicket browser will make use of this.
 </p>
 <br />
 
@@ -208,7 +208,7 @@ The installation in the browser of osTicket will make use of this.
 <img src="https://i.imgur.com/x35CbK3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Continue with the installation process by entering the database settings and credentials we made in HeidiSQL, then click install now.
+Continue with the installation process by entering the database settings and credentials we made in HeidiSQL, then click Install Now.
 </p>
 <br />
 
@@ -216,7 +216,7 @@ Continue with the installation process by entering the database settings and cre
 <img src="https://i.imgur.com/z9f2sQe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We have officially installed osTicket and are ready to start the post installation process!  
+We have officially installed osTicket and are ready to start the post-installation process!  
 </p>
 <br />
 
