@@ -83,7 +83,7 @@ From osticket.com we are able to gather the prerequisites needed in order to act
   <img src="https://i.imgur.com/XMbuZu3.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before we can use osTicket we must install / enable IIS (Internet Information Services) along with CGI ( a dependency that osTicket needs).
 </p>
 <br />
 
