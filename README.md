@@ -184,7 +184,7 @@ Continue setup on osTickets website.
 <img src="https://i.imgur.com/32tS01O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-HeidiSQL is an application that allows us to connect to our database and configure it etc.
+HeidiSQL is a powerful tool for managing and configuring your databases, making it easier to perform complex database-related tasks without needing to rely solely on command-line tools.
 </p>
 <br />
 
