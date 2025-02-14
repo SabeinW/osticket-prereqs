@@ -157,7 +157,7 @@ Restart IIS (In IIS Manager, click Restart on the right-side panel)
 <img src="https://i.imgur.com/BZRp5wl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right-click the ost.config.php file.Select "Rename", enter the new name, such as newname.config.php, and press Enter. Make sure the new name is consistent with the file's role in your project, so the system can still locate and process the configuration file correctly.
 </p>
 <br />
 
@@ -167,7 +167,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/a8oUb8u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set the right permissions for configuration and upload directories to allow the web server to write data (e.g., chmod 755).
+Ensure the web server owns the files (chown www-data:www-data).
+Grant the database user proper permissions (e.g., GRANT SELECT, INSERT, UPDATE, DELETE).
+Manage admin/staff roles and permissions through the osTicket admin panel.
+Always audit and secure your installation to minimize vulnerabilities.
+By configuring the permissions correctly, osTicket can manage backend operations smoothly while ensuring security.
 </p>
 <br />
 
